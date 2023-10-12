@@ -7,3 +7,10 @@ I sketched out the table, built it as a 3D model (in Blender), and then imported
 Current Status: While not rocket science, the app served its purpose. I was able to explor the workflow behind taking a 3D model into Xcode and incorporating it into an app, utlizing ARKit. Oh, and yes, I got buy-in from my primary stakeholder, and the table was approved. I built it out of Redwood (to age in parity with the nearby fence), and then built a birdhouse with the leftover wood.
 
 Blender, Xcode, Swift, ARKit, Redwood
+
+Picnic Table iOS Screenshots:
+
+![picnic-table-ios screenshot](https://www.dalesmith.com/temp/picnictableios_screenshot.png)
+![picnic-table-ios screenshot](https://www.dalesmith.com/temp/blender_table.jpg)
+![picnic-table-ios screenshot](https://www.dalesmith.com/temp/redwood_table.jpg)
+![picnic-table-ios screenshot](https://www.dalesmith.com/temp/redwood_birdhouse.jpg)
